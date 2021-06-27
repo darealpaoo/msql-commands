@@ -1,0 +1,3 @@
+show variables like "max_connections";
+set global max_connections = 999999999;
+show variables like "max_connections";
